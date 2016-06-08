@@ -8,16 +8,16 @@ This project contains a Yeoman generator which establishes a sample project to h
 
 `> npm install -g yo`
 
-**Run npm init and respond to prompts (defaults are fine)**
-
-`> npm init`
-
 **Create a directory where you want to load the template**
 
 ```
     > mkdir samples
     > cd samples
 ```
+
+**Run npm init and respond to prompts (defaults are fine)**
+
+`> npm init`
 
 **Run the generator**
 
