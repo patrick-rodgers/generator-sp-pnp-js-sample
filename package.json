@@ -1,6 +1,6 @@
 {
   "name": "generator-sp-pnp-js-sample",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "A sample project showing use of the Patterns and Practices js library and vs code",
   "homepage": "https://github.com/OfficeDev/PnP-JS-Core/",
   "author": "Patrick Rodgers",
@@ -56,5 +56,5 @@
       "mocha": true
     }
   },
-  "repository": "patrick-rodgers/yo-sp-pnp-js-starter"
+  "repository": "patrick-rodgers/generator-sp-pnp-js-sample"
 }
