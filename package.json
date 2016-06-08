@@ -1,0 +1,60 @@
+{
+  "name": "generator-sp-pnp-js-sample",
+  "version": "1.0.0",
+  "description": "A sample project showing use of the Patterns and Practices js library and vs code",
+  "homepage": "https://github.com/OfficeDev/PnP-JS-Core/",
+  "author": "Patrick Rodgers",
+  "files": [
+    "generators"
+  ],
+  "main": "dist/app.js",
+  "keywords": [
+    "sp-pnp-js",
+    "SharePoint",
+    "SP Fx",
+    "Examples",
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "test": "gulp",
+    "prepublish": "gulp prepublish"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "deep-extend": "^0.4.1",
+    "jquery": "^2.2.4",
+    "sp-pnp-js": "1.0.0",
+    "yeoman-generator": "^0.23.0",
+    "yosay": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-tslint": "^4.3.2",
+    "gulp-typescript": "^2.11.0",
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.4.0",
+    "typescript": "*",
+    "typings": "^1.0.4",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-stream": "^3.2.0",
+    "yeoman-test": "^1.0.0",
+    "yeoman-assert": "^2.0.0",
+    "eslint": "^2.1.0",
+    "eslint-config-xo-space": "^0.13.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-line-ending-corrector": "^1.0.1",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "mocha": true
+    }
+  },
+  "repository": "patrick-rodgers/yo-sp-pnp-js-starter"
+}
