@@ -2,7 +2,7 @@
 
 This project contains a Yeoman generator which establishes a sample project to help you get started using the sp-pnp-js library.
 
-## Learning
+## Getting Started
 
 **Ensure you install [Yeoman](http://yeoman.io/learning/)**
 
