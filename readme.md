@@ -8,6 +8,10 @@ This project contains a Yeoman generator which establishes a sample project to h
 
 `> npm install -g yo`
 
+**Install the Yeoman Generator**
+
+`> npm install -g generator-sp-pnp-js-sample`
+
 **Create a directory where you want to load the template**
 
 ```
