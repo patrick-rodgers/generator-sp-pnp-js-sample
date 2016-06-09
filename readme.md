@@ -25,7 +25,7 @@ This project contains a Yeoman generator which establishes a sample project to h
 
 **Run the generator**
 
-`> yo sp-pnp-js-samples`
+`> yo sp-pnp-js-sample`
 
 **Add the script tag and associated div to a script editor web part on your SharePoint site**
 
