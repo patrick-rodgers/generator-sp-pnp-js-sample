@@ -8,6 +8,10 @@ This project contains a Yeoman generator which establishes a sample project to h
 
 `> npm install -g yo`
 
+**Install typings if you don't have it**
+
+`> npm install -g typings`
+
 **Install the Yeoman Generator**
 
 `> npm install -g generator-sp-pnp-js-sample`
