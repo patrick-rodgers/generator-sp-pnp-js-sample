@@ -24,7 +24,7 @@
     "chalk": "^1.0.0",
     "deep-extend": "^0.4.1",
     "jquery": "^2.2.4",
-    "sp-pnp-js": "1.0.0",
+    "sp-pnp-js": "^1.0.0",
     "yeoman-generator": "^0.23.0",
     "yosay": "^1.0.0"
   },
